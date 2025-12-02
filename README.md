@@ -76,19 +76,4 @@ O dashboard foi elaborado de forma limpa, moderna e intuitiva, facilitando a lei
 
 Desenvolvido por **Hugo Castro**, estudante de Análise e Desenvolvimento de Sistemas e profissional em transição para área de **Dados**.
 
----
 
-## 🐙 Subindo para o GitHub
-
-1. Crie um repositório novo com o nome:
-   ```
-   dashboard-vendas-xbox
-   ```
-2. Envie:
-   - `Dados de vendas do Xbox.xlsx`
-   - `README.md`
-3. Copie o link e envie como entrega do desafio.
-
----
-
-Se quiser, posso gerar também **imagens do dashboard**, criar a **versão final do Excel** com o dashboard pronto ou montar automaticamente o **modelo do repositório** para você. Basta pedir! 😊
